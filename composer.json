@@ -1,5 +1,5 @@
 {
-	"name": "greenwing/aimeosgreenwingpunchout",
+	"name": "greenwing-aimeos/aimeosgreenwingpunchout",
 	"description": "Aimeos aimeosgreenwingpunchout extension",
 	"keywords": ["aimeos", "extension"],
 	"type": "aimeos-extension",
