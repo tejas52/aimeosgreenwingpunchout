@@ -1,0 +1,22 @@
+{
+	"projectName": "aimeosgreenwingpunchout",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "aimeosgreenwingpunchout CSS",
+		"file": "index-css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "aimeosgreenwingpunchout JS",
+		"file": "index-js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
